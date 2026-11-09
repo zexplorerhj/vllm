@@ -1,0 +1,23 @@
+tests/models/multimodal/processing/test_bailing_moe_v3_vl.py
+  s_5b70d330a4b153::t_1ca0c2d5651dcf 5,12,16-18,20-32,34-36,42,60-62,66-76,81,83-88,91-105,107-114,116-117,119-124,126,128-131,136,140-141,143,145,160-290
+docs/models/supported_models.md
+  s_5b70d330a4b153::t_1ca0c2d5651dcf 556
+tests/model_executor/test_bailing_mrope.py
+  s_5b70d330a4b153::t_1ca0c2d5651dcf 37,56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a570222dedf6496e9503d4795811c415ac13974f",
+  "prompts": {},
+  "sessions": {
+    "s_5b70d330a4b153": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bef9-23b8-7130-8017-309dae0f1795",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zexplorerhj <zhjoneson@163.com>"
+    }
+  }
+}
