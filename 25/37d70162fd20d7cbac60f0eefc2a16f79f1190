@@ -1,0 +1,26 @@
+vllm/model_executor/models/bailing_moe_v3_vl.py
+  s_5b70d330a4b153::t_9b35910c7d0137 322-324
+  s_5b70d330a4b153::t_4aced147a080ba 33,226-243,250-253,255-256,302,426,592
+tests/models/multimodal/processing/test_bailing_moe_v3_vl.py
+  s_5b70d330a4b153::t_2ea57312f56f2f 72,163-177
+tests/transformers_utils/test_bailing_moe_v3_vl_config.py
+  s_5b70d330a4b153::t_ef3a20669b5aa2 42-45,47-49,74-80
+vllm/transformers_utils/configs/bailing_moe_v3_vl.py
+  s_5b70d330a4b153::t_0f4e086bb1eea7 252,275-278
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2537d70162fd20d7cbac60f0eefc2a16f79f1190",
+  "prompts": {},
+  "sessions": {
+    "s_5b70d330a4b153": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bef9-23b8-7130-8017-309dae0f1795",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zexplorerhj <zhjoneson@163.com>"
+    }
+  }
+}
